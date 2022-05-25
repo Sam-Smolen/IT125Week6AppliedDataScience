@@ -1,9 +1,11 @@
 # IT125Week6AppliedDataScience 
 ## Overview
-This project demonstrates python data visualizations with the Pandas library by creating to Pandas Plots of [bad-drivers.csv from FiveThirtyEight.com](https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv)].
+This project demonstrates python data visualizations with the Pandas library by creating two Pandas Plots of [bad-drivers.csv from FiveThirtyEight.com](https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv).   The first plot is a bar chart of the state data as provided. 
 
-![Chart 1](plot_bad_drivers_national.png?raw=true "Title")
-![Chart 2](plot_bad_drivers_states.png?raw=true "Title")
+![2012 - Number Of Drivers Involved In Fatal Collisions By State](plot_bad_drivers_national.png?raw=true)
+
+
+
 
 
 ## References
