@@ -22,4 +22,5 @@ https://jupyter.org/
 
 ## Python Setup Notes
 pip install pandas matplotlib
+
 pip install jupyterlab
