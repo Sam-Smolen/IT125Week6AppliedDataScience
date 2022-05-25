@@ -36,6 +36,7 @@ try:
 
     # Display horizontal bar chart with each state's numbers.
     df.plot(kind="barh",
+            title="2012 - Number Of Drivers Involved In Fatal Collisions By State",
             x="State",
             y=["Number of drivers involved in fatal collisions per billion miles",
                "Number Of Drivers Involved In Fatal Collisions Who Were Distracted",
@@ -55,6 +56,7 @@ try:
     print(dfsummary.head())
 
     dfsummary.plot(kind="bar",
+       title="2012 Number - Of Drivers Involved In Fatal Collisions Nationally",            
         y=["Number of drivers involved in fatal collisions per billion miles",
            "Number Of Drivers Involved In Fatal Collisions Who Were Distracted",
            "Number Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired",

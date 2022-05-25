@@ -1,6 +1,6 @@
 # IT125Week6AppliedDataScience 
 ## Overview
-This project demonstrates python data visualization with the Pandas library of bad drivers data from FiveThirtyEight. 
+This project demonstrates python data visualizations with the Pandas library by creating to Pandas Plots of [bad-drivers.csv from FiveThirtyEight.com](https://raw.githubusercontent.com/fivethirtyeight/data/master/bad-drivers/bad-drivers.csv)].
 
 ![Chart 1](plot_bad_drivers_national.png?raw=true "Title")
 ![Chart 2](plot_bad_drivers_states.png?raw=true "Title")
