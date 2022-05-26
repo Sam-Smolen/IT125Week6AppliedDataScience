@@ -27,7 +27,10 @@ https://realpython.com/pandas-plot-python/
 https://jupyter.org/
 
 
-## Python Setup Notes
+## Python Notes
+
 pip install pandas matplotlib
 
 pip install jupyterlab
+
+python main.py
